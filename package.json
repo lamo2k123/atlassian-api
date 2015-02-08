@@ -1,0 +1,25 @@
+{
+    "name" : "atlassian-api",
+    "version" : "0.1.0",
+    "description" : "REST Client for Atlassian's",
+    "main" : "lib/main.js",
+    "engines" : {
+        "node" : "0.10.*"
+    },
+    "scripts": {
+        "test" : "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository" : {
+        "type"	: "git",
+        "url"	: "https://github.com/lamo2k123/atlassian-api"
+    },
+    "keywords" : [
+        "jira",
+        "atlassian"
+    ],
+    "author" : "Lamo2k123 <lamo2k123@gmail.com>",
+    "license" : "MIT",
+    "readmeFilename" : "README.md",
+    "dependencies" : {},
+    "devDependencies" : {}
+}
